@@ -4,6 +4,6 @@
 
 ###Work Experience
 data scientist
-big impact project1:
+-big impact project1:
 
 ###projects
