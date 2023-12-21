@@ -1,9 +1,9 @@
-#Data Scientist
+Data Scientist
 
-###Education
+Education
 
-###Work Experience
-data scientist
+Work Experience
+-data scientist
 -big impact project1:
 
-###projects
+Projects
